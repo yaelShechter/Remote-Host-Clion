@@ -39,4 +39,5 @@ Make sure you have VPN turned on (as explained here https://www.cs.bgu.ac.il/~sp
 
 
 Note:
-Perhaps you will have to make some preparations first. You should connect to the computer with putty/ mobaXterm/ any shell you like, and install c++ compiler using the 
+Perhaps you will have to make some preparations first. You should connect to the computer with putty/ mobaXterm/ any shell you like, and install c++ compiler using the following link:
+https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux
