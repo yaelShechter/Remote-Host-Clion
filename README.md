@@ -4,7 +4,7 @@ Read to understand how to connect to lab computers in Ben Gurion University Thro
 
 1.	Choose requested computer in the lab from here: http://oldweb.cs.bgu.ac.il/facilities/labs.html
 
-![](images/computers.png)
+![](images/computerss.png)
 
 2.	Go to CLion. 
 3.	In Settings, go to “Build, Execution, Deployment”. 
